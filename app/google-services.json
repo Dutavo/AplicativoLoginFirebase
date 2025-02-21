@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993157214497",
+    "project_id": "projetoapp-dutavo",
+    "storage_bucket": "projetoapp-dutavo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993157214497:android:3f0cba9f7a427145efce60",
+        "android_client_info": {
+          "package_name": "com.dutavo.aplicativologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQCJEroz-n9EGvp4uP2RMNKLeRPG05xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
