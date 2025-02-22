@@ -18,7 +18,7 @@ Este repositório contém um aplicativo Android desenvolvido em Kotlin que permi
 
 # 🚀 Como Executar
 1. Clone este repositório:  
-git clone https://github.com/Dutavo/AplicativoLoginFirebase
+git clone https://github.com/Dutavo/AplicativoLoginFirebase.git
 
 3. Abra o projeto no Android Studio.
 
