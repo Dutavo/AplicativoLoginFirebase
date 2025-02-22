@@ -21,5 +21,9 @@ class IntroActivity : AppCompatActivity() {
 
         }
 
+        binding.botaoEntrar.setOnClickListener{
+            startActivity(Intent(this, SignInActivity::class.java))
+        }
+
     }
 }
